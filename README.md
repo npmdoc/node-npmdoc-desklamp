@@ -1,6 +1,6 @@
 # npmdoc-desklamp
 
-#### api documentation for  [desklamp (v0.1.4)](https://github.com/desklamp-js/desklamp#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-desklamp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-desklamp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-desklamp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-desklamp)
+#### basic api documentation for  [desklamp (v0.1.4)](https://github.com/desklamp-js/desklamp#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-desklamp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-desklamp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-desklamp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-desklamp)
 
 #### clean routing and state container for react
 
@@ -70,7 +70,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.1.4"
+    "version": "0.1.4",
+    "bin": {}
 }
 ```
 
